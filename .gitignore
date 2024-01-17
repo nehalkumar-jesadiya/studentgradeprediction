@@ -121,6 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
+.studgradpre
 .venv
 env/
 venv/
